@@ -14,7 +14,7 @@ const projects = [
       "AI-powered grocery ordering system using WhatsApp and automation workflows.",
     demo: "https://www.youtube.com/watch?v=y5RpolLnLOA",
     github: "https://github.com/yourgithub/grocery-ai",
-    video: "https://www.youtube.com/embed/hAgqDdPgA3g",
+    video: "https://www.youtube.com/embed/NAkQVL61BRI",
   },
 
   {
