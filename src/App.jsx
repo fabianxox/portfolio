@@ -1,11 +1,20 @@
 const projects = [
   {
-    title: "AI Exam Platform",
-    description:
-      "Full-stack exam platform with JWT auth, evaluation system, and role-based access.",
-    demo: "https://your-demo-link.com",
+    title: "Turn Your WhatsApp Into a 24/7 AI Employee.",
+// Building an automated system integrating WhatsApp, Gmail,
+// and business databases for rental/workshop businesses.
+//
+// Features:
+// • Instant customer replies
+// • Automated urgent issue escalation via Gmail
+// • Daily business summaries for owners
+// • Customer & payment verification from business records
+//
+// Designed to reduce manual customer handling and help
+// business owners manage high volumes of WhatsApp conversations efficiently.
+    demo: "https://www.youtube.com/embed/JCPMbhygEbw",
     github: "https://github.com/fabianxox",
-    video: "https://www.youtube.com/embed/y5RpolLnLOA",
+    video: "https://www.youtube.com/embed/JCPMbhygEbw",
   },
 
   {
