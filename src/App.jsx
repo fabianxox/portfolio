@@ -13,7 +13,7 @@ const projects = [
 // Designed to reduce manual customer handling and help
 // business owners manage high volumes of WhatsApp conversations efficiently.
     demo: "https://youtu.be/JCPMbhygEbw?si=tEXGsgER86PtdFqE",
-    github: "https://github.com/fabianxox",
+    github: "https://github.com/fabianxox/car_rental_ai",
     video: "https://www.youtube.com/embed/JCPMbhygEbw",
   },
 
@@ -139,7 +139,7 @@ function App() {
                     rel="noopener noreferrer"
                     className="bg-white text-black px-4 py-2 rounded-lg font-medium hover:opacity-90 transition"
                   >
-                    Live Demo
+                    Demo
                   </a>
 
                   <a
