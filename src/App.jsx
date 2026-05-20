@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: "Turn Your WhatsApp Into a 24/7 AI Employee.",
+    title: "Whatsapp AI integration",
 // Building an automated system integrating WhatsApp, Gmail,
 // and business databases for rental/workshop businesses.
 //
@@ -12,7 +12,7 @@ const projects = [
 //
 // Designed to reduce manual customer handling and help
 // business owners manage high volumes of WhatsApp conversations efficiently.
-    demo: "https://www.youtube.com/embed/JCPMbhygEbw",
+    demo: "https://youtu.be/JCPMbhygEbw?si=tEXGsgER86PtdFqE",
     github: "https://github.com/fabianxox",
     video: "https://www.youtube.com/embed/JCPMbhygEbw",
   },
